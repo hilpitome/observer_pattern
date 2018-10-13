@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/observerPattern.iml" filepath="$PROJECT_DIR$/.idea/observerPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/observerpattern.iml" filepath="$PROJECT_DIR$/.idea/modules/observerpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/observerpattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/observerpattern_main.iml" group="observerpattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/observerpattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/observerpattern_test.iml" group="observerpattern" />
+    </modules>
+  </component>
+</project>
